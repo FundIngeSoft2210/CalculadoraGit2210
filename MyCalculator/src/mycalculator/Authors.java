@@ -19,5 +19,6 @@ public class Authors {
     public static final String MAOV = "Mario Alejandro Ortiz Vargas";
     public static final String AMJR = "Angello Mateo Jaimes Rincon";
     public static final String NDCC = "Nicolás David Cubillos Cubillos";
+    public static final String DMHP = "David Mateo Henao Prieto";
 
 }
