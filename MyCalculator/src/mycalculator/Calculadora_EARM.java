@@ -29,7 +29,7 @@ public class Calculadora_JSVT implements ICalculator {
     @Override
     public String about() {
         // TODO Auto-generated method stub
-        return "Calculator implementend by: "+Authors.JSVT;
+        return "Calculator implementend by: "+Authors.EARM;
     }
 
     

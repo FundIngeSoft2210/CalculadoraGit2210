@@ -26,6 +26,6 @@ public class Calculadora_SV implements ICalculator{
 
     @Override
     public String about() {
-        return "Calculator implemented by "+Authors.SV;
+        return "Calculator implemented by "+Authors.ER;
     }
 }
