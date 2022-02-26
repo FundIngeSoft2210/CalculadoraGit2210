@@ -25,4 +25,5 @@ public class Authors {
     public static final String DMHP = "David Mateo Henao Prieto";
     public static final String DSCG = "Diana Sofia Carrillo Gomez";
     public static final String GDS = "Gabriel De Souza";
+    public static final String TLGR = "Tania Lorena Granados Romero";
 }
