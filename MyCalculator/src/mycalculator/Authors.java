@@ -23,5 +23,4 @@ public class Authors {
     public static final String DMHP = "David Mateo Henao Prieto";
     public static final String DSCG = "Diana Sofia Carrillo Gomez";
 
-
 }
