@@ -58,7 +58,13 @@ public class Main {
         System.out.println("Division: " +calc.divide(10,5));
         System.out.println("Resta: " +calc.substract(10,5));
 
+        Calculadora_TLGR calculadoraTLGR = new Calculadora_TLGR();
+        System.out.println("El resultado de la suma de la calculadora_TLGR es:" + calculadoraTLGR.add(8,6));
+        System.out.println("El resultado de la resta de la calculadora_TLGR es:" + calculadoraTLGR.substract(8,6));
+        System.out.println("El resultado de la multiplicación de la calculadora_TLGR es:" + calculadoraTLGR.multiply(8,6));
+        System.out.println("El resultado de la division de la calculadora_TLGR es:" + calculadoraTLGR.divide(8,6))
 
+      
     }
 
 }
