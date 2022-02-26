@@ -20,5 +20,8 @@ public class Authors {
     public static final String AMJR = "Angello Mateo Jaimes Rincon";
     public static final String NDCC = "Nicolás David Cubillos Cubillos";
     public static final String GDS = "Gabriel (Capo) De Souza";
+    public static final String DMHP = "David Mateo Henao Prieto";
+    public static final String DSCG = "Diana Sofia Carrillo Gomez";
+
 
 }

@@ -41,7 +41,6 @@ public class Main {
         Calculadora_DMHP Suma = new Calculadora_DMHP();
         System.out.println("el resultado de la Suma de la calculadora_DMHP es: " + Suma.add(15,4));
 
-
         System.out.println("\nPrueba DSCG con 6 y 3.");
         Calculadora_DSCG calculadora= new Calculadora_DSCG();
         System.out.println("Suma: " + calculadora.add(6,3));
@@ -49,7 +48,6 @@ public class Main {
         System.out.println("Division: " +calculadora.divide(6,3));
         System.out.println("Resta: " +calculadora.substract(6,3));
 
-        
     }
 
 }
