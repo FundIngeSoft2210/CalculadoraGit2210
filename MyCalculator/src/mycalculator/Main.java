@@ -30,6 +30,8 @@ public class Main {
         System.out.println("el resultado de la resta de la calculadora_JSVT es: " + probarResta.substract(10,6));
         Calculadora_LSJB probarDivision = new Calculadora_LSJB();
         System.out.println("el resultado de la division de la calculadora_LSJB es: " + probarDivision.divide(10,5));
+        Calculadora_DMHP probarMultiplicacion = new Calculadora_DMHP();
+        System.out.println("el resultado de la multiplicación de la calculadora_DMHP es: " + probarMultiplicacion.multiply(15,4));
     }
     
 }
