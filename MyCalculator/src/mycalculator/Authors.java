@@ -28,4 +28,5 @@ public class Authors {
     public static final String TLGR = "Tania Lorena Granados Romero";
     public static final String DNM = "Daniel Nino Munoz";
     public static final String AKCF = "Angie Katherine Castro Florez";
+    public static final String KV = "Kevin Leonardo López Garcia";
 }
