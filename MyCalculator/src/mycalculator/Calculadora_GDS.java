@@ -1,7 +1,7 @@
 package mycalculator;
 
 //Calculadora Gabriel De Souza
-public class Calculadora_DSCG implements ICalculator {
+public class Calculadora_GDS implements ICalculator {
 
 	@Override
 	public double add(double a, double b) {
