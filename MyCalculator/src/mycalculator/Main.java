@@ -43,6 +43,12 @@ public class Main {
 
 
 
+        System.out.println("\nPrueba DSCG con 6 y 3.");
+        Calculadora_DSCG calculadora= new Calculadora_DSCG();
+        System.out.println("Suma: " + calculadora.add(6,3));
+        System.out.println("Mutiplicacion: " +calculadora.multiply(6,3));
+        System.out.println("Division: " +calculadora.divide(6,3));
+        System.out.println("Resta: " +calculadora.substract(6,3));
     }
     
 }
