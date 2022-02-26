@@ -35,7 +35,7 @@ public class Main {
         Calculadora_DMHP Multiplicacion = new Calculadora_DMHP();
         System.out.println("el resultado de la multiplicación de la calculadora_DMHP es: " + Multiplicacion.multiply(15,4));
         Calculadora_DMHP Division = new Calculadora_DMHP();
-        System.out.println("el resultado de la Division de la calculadora_DMHP es: " + Divsion.divide(15,4));
+        System.out.println("el resultado de la Division de la calculadora_DMHP es: " + Division.divide(15,4));
         Calculadora_DMHP Resta = new Calculadora_DMHP();
         System.out.println("el resultado de la Resta de la calculadora_DMHP es: " + Resta.substract(15,4));
         Calculadora_DMHP Suma = new Calculadora_DMHP();
