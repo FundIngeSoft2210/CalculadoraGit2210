@@ -16,6 +16,7 @@ public class Authors {
     public static final String EARM="Esteban Alberto Rojas Molina";
     public static final String ER = "Esteban Rojas";
     public static final String JSVT="Juan Sebastián Vargas Torres";
+    public static final String AJAR="Anderson Jair Alvarado Rubio";
     public static final String SV = "Sebastian Vergara";
     public static final String LSJB = "Laura Sofia Jimenez Ballen";
     public static final String NGS ="Natalia Gaona Salamanca";
