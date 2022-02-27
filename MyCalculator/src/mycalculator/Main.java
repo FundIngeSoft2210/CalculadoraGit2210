@@ -61,8 +61,8 @@ public class Main {
         //Prueba hecha por TLGR
         Calculadora_TLGR calculadoraTLGR = new Calculadora_TLGR();
         System.out.println("El Resultado de la suma de la calculadora_TLGR es:" + calculadoraTLGR.add(8,6));
-        System.out.println("El Resultado de la resta de la calculadora_TLGR es:" + calculadoraTLGR.substract(8,6));
-        System.out.println("El Resultado de la multiplicación de la calculadora_TLGR es:" + calculadoraTLGR.multiply(8,6));
+        System.out.println("El Resultado de la resta de la calculadora_TLGR es:" + calculadoraTLGR.substract(4,6));
+        System.out.println("El Resultado de la multiplicación de la calculadora_TLGR es:" + calculadoraTLGR.multiply(8,2));
         System.out.println("El Resultado de la division de la calculadora_TLGR es:" + calculadoraTLGR.divide(8,6));
 
       
