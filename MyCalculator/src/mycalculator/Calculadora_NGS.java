@@ -1,37 +1,29 @@
 package mycalculator;
-
-public class Calculadora_JSVT implements ICalculator {
+//Calxculadora Natalia Gaona Salamanca
+public class Calculadora_NGS implements ICalculator {
 
     @Override
     public double add(double a, double b) {
-        // TODO Auto-generated method stub
         return a+b;
     }
 
     @Override
     public double multiply(double a, double b) {
-        // TODO Auto-generated method stub
         return a*b;
     }
 
     @Override
     public double divide(double a, double b) {
-        // TODO Auto-generated method stub
         return a/b;
     }
 
     @Override
     public double substract(double a, double b) {
-        // TODO Auto-generated method stub
         return a-b;
     }
 
     @Override
     public String about() {
-        // TODO Auto-generated method stub
-        return "Calculator implementend by: "+Authors.JSVT;
+        return "Calculator implemented by "+Authors.NGS;
     }
-
-    
-
 }
