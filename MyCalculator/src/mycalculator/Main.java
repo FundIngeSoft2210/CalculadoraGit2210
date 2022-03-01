@@ -65,7 +65,12 @@ public class Main {
         System.out.println("El Resultado de la multiplicación de la calculadora_TLGR es:" + calculadoraTLGR.multiply(8,2));
         System.out.println("El Resultado de la division de la calculadora_TLGR es:" + calculadoraTLGR.divide(8,6));
 
-      
+        //Prueba realizada por Juan Pablo Guzman Pedraza
+        Calculadora_JPGP calculadoraJPGP = new Calculadora_JPGP();
+        System.out.println("El Resultado de la suma es:" + calculadoraJPGP.add(10,5));
+        System.out.println("El Resultado de la resta es:" + calculadoraJPGP.substract(10,5));
+        System.out.println("El Resultado de la multiplicación es:" + calculadoraJPGP.multiply(10,5));
+        System.out.println("El Resultado de la division es:" + calculadoraJPGP.divide(10,5));
     }
 
 }

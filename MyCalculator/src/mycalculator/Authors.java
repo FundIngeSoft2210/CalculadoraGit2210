@@ -30,4 +30,5 @@ public class Authors {
     public static final String DNM = "Daniel Nino Munoz";
     public static final String AKCF = "Angie Katherine Castro Florez";
     public static final String KV = "Kevin Leonardo López Garcia";
+    public static final String JPGP= "Juan Pablo Guzmán Pedraza";
 }
